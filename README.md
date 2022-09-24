@@ -1,2 +1,2 @@
-# ekasanjaya.github.io
+# ekakyuu.github.io
 ora ora oraumum
