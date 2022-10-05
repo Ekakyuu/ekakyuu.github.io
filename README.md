@@ -1,3 +1,3 @@
 
-ora ora oraumum
+prepair to go
 
