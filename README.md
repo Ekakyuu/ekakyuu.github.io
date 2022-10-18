@@ -49,14 +49,7 @@
             <td>Baris 3, Kolom 3</td>
         </tr>
         
-    </table>
 
-    <ol>
-        <li>Senin</li>
-        <li>Selasa</li>
-        <li>Rabu</li>
-        <li>Kamis</li>
-    </ol>
 
 
 </body>
